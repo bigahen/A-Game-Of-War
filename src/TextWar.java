@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
-
+//This note is to test github syncing capabilities 
 public class TextWar {
 	public static void main(String args[]) throws IOException{
 	
